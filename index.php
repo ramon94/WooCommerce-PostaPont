@@ -1,19 +1,13 @@
 <?php
 
-/***************** Original author ************************
- *                                                        *
- * Plugin Name: WooCommerce PostaPont                     *
- * Plugin URI: http://visztpeter.me                       *
- * Description: PostaPont integráció WooCommerce-hez.     *
- * Version: 1.0.2                                         *
- * Author: Peter Viszt                                    *
- * Author URI: http://visztpeter.me                       *
- *                                                        *
- **********************************************************
- 
- 
-/*************** Updated by ramon94 *****************/
-/* https://github.com/ramon94/WooCommerce-PostaPont */
+/**
+ * Plugin Name: WooCommerce PostaPont
+ * Plugin URI: https://github.com/ramon94/WooCommerce-PostaPont | Original: http://visztpeter.me
+ * Description: PostaPont integráció WooCommerce-hez.
+ * Version: 1.1
+ * Author: ramon94 | Original athor: Peter Viszt
+ * Author URI: https://github.com/ramon94/WooCommerce-PostaPont  | Original: http://visztpeter.me
+ */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
